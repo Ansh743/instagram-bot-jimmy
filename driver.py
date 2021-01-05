@@ -30,10 +30,9 @@ class Bot():
         not_now_btn.click()
     
     def srch_tags():
-        #
+        None
         
 def main():
     jimmy = Bot()
-    
 if __name__ == '__main__':
     main()
